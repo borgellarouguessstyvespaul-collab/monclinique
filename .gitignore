@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 __pycache__/
 *.py[cod]
 *$py.class
@@ -6,3 +7,13 @@ venv/
 .env
 .idea/
 .vscode/
+=======
+
+database.py
+
+models.py
+
+schemas.py
+
+main.py
+>>>>>>> a785b0a5c15f95b802090df3bc656f76f1fd0a44
